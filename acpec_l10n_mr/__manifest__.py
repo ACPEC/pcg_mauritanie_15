@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
 
-# Copyright (c) 2010 kazacube (http://kazacube.com).
 
 {
     'name': 'Plan Comptable - Mauritanie',
     'author': 'Med Mahmoud',
     'company': 'ACPEC SARL',
-    'version': '1.0',
+    'version': '15.1.0',
     'license': 'AGPL-3',
     'category': 'Accounting',
     'website': 'https://www.acpec-sarl.com',
