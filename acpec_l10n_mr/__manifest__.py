@@ -3,7 +3,7 @@
 
 {
     'name': 'Plan Comptable - Mauritanie',
-    'author': 'Med Mahmoud',
+    'author': 'ACPEC SARL',
     'company': 'ACPEC SARL',
     'version': '15.1.0',
     'license': 'AGPL-3',
